@@ -1,6 +1,4 @@
-package Classes;
-
-import java.util.Date;
+package classes;
 
 public class PessoaJuridica extends Pessoa {
     String nome_fantasia;

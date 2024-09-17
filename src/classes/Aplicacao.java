@@ -1,12 +1,12 @@
-package Classes;
+package classes;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
 
-import static Classes.PontodeParada.exibirTotalPontosDeParada;
-import static Classes.Rota.calcularDemandaRota;
-import static Classes.Rota.exibirTotalRotas;
+import static classes.PontodeParada.exibirTotalPontosDeParada;
+import static classes.Rota.calcularDemandaRota;
+import static classes.Rota.exibirTotalRotas;
 
 
 public class Aplicacao {

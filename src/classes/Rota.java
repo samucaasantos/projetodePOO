@@ -1,9 +1,9 @@
-package Classes;
+package classes;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import static Classes.Aplicacao.rotas;
+import static classes.Aplicacao.rotas;
 
 public class Rota {
     ArrayList<PontodeParada> pontosdeParada;
